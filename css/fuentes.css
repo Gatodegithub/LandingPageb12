@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Univers;
+    src: url(../fonts/UNVR65W.TTF);
+}
+@font-face {
+    font-family: Universlight;
+    src: url(../fonts/UniversLightCondensed.ttf);
+}
+/* Fuentes .eot (sirve para "todos" los navegadores) */
