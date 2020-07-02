@@ -944,7 +944,8 @@ figure {
     background-color: var(--colorTerciario);
     color: #fff;
     width: 100%;
-    margin: 1em 0;
+    margin-top: 3em;
+    margin-bottom: 2em;
 }
 
 .inscripcion:hover {

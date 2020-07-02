@@ -53,7 +53,7 @@ javier.addEventListener('click', () => {
 })
 
 // seteo meta
-var countDownDate = new Date("Jun 25, 2020 14:52:00").getTime();
+var countDownDate = new Date("July 4, 2020 10:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function () {
